@@ -1,0 +1,7 @@
+?- solve(Voronov, Pavlov, Levicky, Saharov).
+Voronov = dancer,
+Pavlov = singer,
+Levicky = writer,
+Saharov = painter ;
+false.
+
